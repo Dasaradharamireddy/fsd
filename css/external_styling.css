@@ -1,0 +1,24 @@
+.ABC{
+	color: red;
+}
+input[type="number"]{
+	color: blueviolet;
+}
+input[type="text"]{
+	color: yellow;
+
+}
+a:link{
+	color:red;
+}
+a:visited{
+	color:lightgreen;
+}
+a:hover{
+	background-color: black;
+	color: white;
+}
+a:active{
+	color: blue;
+	background-color: red;
+}

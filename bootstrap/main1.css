@@ -1,0 +1,41 @@
+.col-md-1 
+{
+	margin-right:20px;
+	width:108px;
+	text-align:center;
+}
+.col-md-2
+{
+	margin-right:20px;
+	width:236px;
+	text-align:center;
+}
+.col-md-3
+{
+	margin-right:20px;
+	width:364px;
+	text-align:center;
+}
+.col-md-4
+{
+	margin-right:20px;
+	width:492px;
+	text-align:center;
+}
+.col-md-6
+{
+	margin-right:20px;
+	width:747px;
+	text-align:center;
+}
+.col-md-8
+{
+	margin-right:20px;
+	width:1003px;
+	text-align:center;
+}
+.col-md-12
+{
+	text-align:center;
+	width:1515px;
+}

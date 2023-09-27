@@ -1,0 +1,10 @@
+span>img{
+	height: 100px;
+	width: 100px;
+	border-radius: 60px;
+	outline: 2px solid red;
+	float: left;
+}
+.pro{
+	float: right;
+}
